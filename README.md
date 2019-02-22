@@ -17,4 +17,4 @@ Another fix for CHM on Windows 10 is disabling the SysMain/Superfetch service, w
 
 The way to tell if ***SysMain/Superfetch*** is whats causing the buttons to grey out is just open the Windows Store app and all of a sudden CHM starts working again.
 
-As a ruile of Thump: It´s usually more ***SysMain*** on an AMD System and ***Superfetch*** Service on Intel System, your mileage may vary.
+As a rule of Thump: It´s usually more ***SysMain*** on an AMD System and ***Superfetch*** Service on Intel System, your mileage may vary.
