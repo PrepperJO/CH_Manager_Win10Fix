@@ -22,3 +22,4 @@ As a rule of Thump: It´s usually more ***SysMain*** on an AMD System and ***Sup
 ### Source 
 
 https://www.reddit.com/r/hotas/comments/anfh0n/ch_pro_pedals_and_leaning_left_right_crouch_etc/
+https://forum.il2sturmovik.com/topic/33087-enabling-ch-products-joystick-control-manager-in-windows-10/
